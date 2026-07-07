@@ -13,7 +13,7 @@ btn.addEventListener("click", () => {
 // Floating button
 const floating = document.createElement("a");
 
-floating.href = "YOUR_AFFILIATE_LINK";
+floating.href = "https://reffpa.com/L?tag=d_228943m_14249c_&site=228943&ad=14249";
 floating.innerHTML = "🔥 JOIN NOW";
 floating.className = "floating-btn";
 

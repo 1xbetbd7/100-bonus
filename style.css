@@ -125,3 +125,23 @@ font-size:16px;
 }
 
 }
+.floating-btn{
+position:fixed;
+bottom:20px;
+right:20px;
+background:#ffd700;
+color:#000;
+padding:15px 20px;
+border-radius:50px;
+text-decoration:none;
+font-weight:bold;
+box-shadow:0 0 20px gold;
+animation:pulse 1.5s infinite;
+z-index:9999;
+}
+
+@keyframes pulse{
+0%{transform:scale(1);}
+50%{transform:scale(1.08);}
+100%{transform:scale(1);}
+}

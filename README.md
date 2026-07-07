@@ -1,0 +1,1 @@
+Replace YOUR_AFFILIATE_LINK_HERE with your affiliate URL.
